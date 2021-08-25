@@ -72,10 +72,10 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    author = "Southampton Robotics Oureach"
+    defaultKeywords = ["robotics", "southampton"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Southampton Robotics Outreach Society. We build robots!"
 
     # Social media
     facebook_site = "https://facebook.com/SROSoton"

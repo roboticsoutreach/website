@@ -1,0 +1,21 @@
+.navbar ul.nav > li > a {
+    text-decoration: none;
+}
+
+#footer {
+    background: #294d76;
+    color: #eeeeee;
+}
+
+#footer .blog-entries .item {
+    border-bottom: solid 1px #ccc;
+}
+
+#copyright {
+    background: #467fbf;
+    color: #ccc;
+}
+
+#copyright a {
+    color: #ccc;
+}
