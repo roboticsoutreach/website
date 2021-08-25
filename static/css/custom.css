@@ -19,3 +19,7 @@
 #copyright a {
     color: #ccc;
 }
+
+.img-responsive {
+    border-radius: 5px;
+}
