@@ -4,9 +4,10 @@ date: 2018-04-25
 tags:
   - robotics
   - event
+banner: "/img/posts/sb2018/sb2018-group.jpg"
 ---
 
-{{< figure src="/img/posts/sb2018/sblogo.svg" width="50%" caption="SourceBots Logo">}}
+**This article was originally written by a member of the society for their personal blog.**
 
 Many months of hard work came to fruition last weekend, as we hosted the [SourceBots][sb] 2018 robotics competition at The University of Southampton.
 
@@ -25,7 +26,7 @@ The scoring was as follows:
 
 As the arena is setup with 5 opponent tokens in your zone, each team begins with -5 points at the start of each round. This led to all teams having an overall negative game score, but this was not an issue as we score positionally.
 
-{{< figure src="/img/posts/sb2018/photo.jpg" width="50%" caption="The Arena, with beautiful rotationally symmetric tokens">}}
+{{< figure src="/img/posts/sb2018/sb2018-arena.jpg" width="50%" caption="The Arena, with beautiful rotationally symmetric tokens">}}
 
 One issue that we came across when designing the competition is that if placed randomly, some robots could have an advantage compared to others in the same game. The solution to this was to place the markers rotationally symmetrically around the centre. I wrote a rather [nice python script][zone-gen] to generate layout diagrams to assist the volunteers in laying out the arena between matches.
 
@@ -38,10 +39,11 @@ The kit is still in development after the competition and we have many more exci
 
 ## The Livestream
 
-The competition finals were broadcast live by [SUSUtv][susu-tv], the student television society here at Southampton. 
+The competition finals were broadcast live by [SUSUtv][susu-tv], the student television society here at Southampton.
+
+{{< figure src="/img/posts/sb2018/sb2018-group.jpg" width="50%" caption="Group Photo">}}
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSUSUtv%2Fvideos%2F1891818877517292%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 
 
 [april-tags]: https://april.eecs.umich.edu/software/apriltag.html

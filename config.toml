@@ -135,8 +135,8 @@ paginate = 10
     disabled_logo = false
     logo_text = "Southampton Robotics Outreach"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo.png"
+    logo = "img/brand/sro-logo.png"
+    logo_small = "img/brand/sro-logo.png"
     address = ""
 
 [permalinks]
@@ -228,3 +228,8 @@ paginate = 10
   tag = "tags"
   author = "authors"
 
+# Allow Raw HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

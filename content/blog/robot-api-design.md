@@ -5,9 +5,12 @@ tags:
   - robotics
   - python
   - software
+banner: "/img/res/arena-robot.jpg"
 ---
 
 Python 2 is being deprecated at the end of this year and we're still teaching it for our robotics competitions? I explain my experiences with various interfaces to control both our robots, and others, and explain why I developed [j5](https://github.com/j5api/j5).
+
+{{< figure src="/img/res/arena-robot.jpg" width="50%" caption="A typical robot built for our competitions">}}
 
 ## sr.robot
 
