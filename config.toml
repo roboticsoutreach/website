@@ -1,4 +1,4 @@
-baseurl = "https://roboticsoutreach.org"
+baseurl = "https://roboticsoutreach.netlify.app"
 title = "Southampton Robotics Outreach"
 theme = "universal"
 languageCode = "en-gb"
