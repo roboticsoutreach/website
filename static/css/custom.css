@@ -1,10 +1,30 @@
+a {
+    color: #40a9f4;
+}
+
+a:hover, a:focus {
+    color: #3d8fee;
+}
+
 .navbar ul.nav > li > a {
     text-decoration: none;
 }
 
+#top {
+    background: #757575;
+}
+
+#top .social a {
+    color: #ccc;
+}
+
+#top .social a:hover {
+    background: #40a9f4;
+}
+
 #footer {
-    background: #294d76;
-    color: #eeeeee;
+    background: #3d8fee;
+    color: #fff;
 }
 
 #footer .blog-entries .item {
@@ -12,14 +32,91 @@
 }
 
 #copyright {
-    background: #467fbf;
-    color: #ccc;
+    background: #40a9f4;
+    color: #eee;
 }
 
 #copyright a {
-    color: #ccc;
+    color: #eee;
 }
 
 .img-responsive {
     border-radius: 5px;
+}
+
+.btn-template-main {
+    color: #40a9f4;
+    border-color: #40a9f4;
+}
+
+.btn-template-main:hover, .btn-template-main:focus, .btn-template-main:active, .btn-template-main.active {
+    background: #40a9f4;
+    border-color: #40a9f4;
+}
+
+.btn-template-transparent-primary:hover, .btn-template-transparent-primary:focus, .btn-template-transparent-primary:active, .btn-template-transparent-primary.active {
+    color: #40a9f4;
+}
+
+.home-carousel .dark-mask {
+    background: #40a9f4;
+}
+
+.box-image-text .top .bg {
+    background: #40a9f4;
+}
+
+.heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {
+    border-bottom-color: #40a9f4;
+}
+
+.navbar ul.nav > li > a:hover {
+    border-top-color: #40a9f4;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #45d3ff7f;
+}
+
+.navbar ul.nav > li.active > a, .navbar ul.nav > li.open > a {
+    border-top-color: #3d8fee;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #40a9f4;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #40a9f4;
+}
+
+.pager li > a, .pager li > span {
+    border-color: #40a9f4;
+}
+
+.pager li > a:hover, .pager li > a:focus {
+    background-color: #40a9f4;
+}
+
+.panel.sidebar-menu .panel-heading h1, .panel.sidebar-menu .panel-heading h2, .panel.sidebar-menu .panel-heading h3, .panel.sidebar-menu .panel-heading h4, .panel.sidebar-menu .panel-heading h5 {
+    border-bottom-color: #40a9f4;
+}
+
+.panel.sidebar-menu ul.tag-cloud li a {
+    color: #40a9f4;
+}
+
+.panel.sidebar-menu ul.tag-cloud li a:hover {
+    color: #40a9f4;
+    border-color: #40a9f4;
+}
+
+#blog-listing-medium .post .date-comments a:hover {
+    color: #40a9f4;
+}
+
+.form-control:focus {
+    border-color: #40a9f4;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px #40a9f496;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px #40a9f496;
 }

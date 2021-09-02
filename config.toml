@@ -202,7 +202,7 @@ paginate = 10
     enable = true
     icon = "fas fa-robot"
     title = "Get Involved!"
-    subtitle = "Everyone is welcome in our robotics community.No matter if you've never seen a robot, or if you have built a functioning 3D printer, come and join in!"
+    subtitle = "Everyone is welcome in our robotics community. No matter if you've never seen a robot, or if you have built a functioning 3D printer, come and join in!"
     link_url = "#"
     link_text = "Let's Go!"
 
