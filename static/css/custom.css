@@ -89,3 +89,28 @@ a:hover, a:focus {
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
     background-color: #40a9f4;
 }
+
+.pager li > a, .pager li > span {
+    border-color: #40a9f4;
+}
+
+.pager li > a:hover, .pager li > a:focus {
+    background-color: #40a9f4;
+}
+
+.panel.sidebar-menu .panel-heading h1, .panel.sidebar-menu .panel-heading h2, .panel.sidebar-menu .panel-heading h3, .panel.sidebar-menu .panel-heading h4, .panel.sidebar-menu .panel-heading h5 {
+    border-bottom-color: #40a9f4;
+}
+
+.panel.sidebar-menu ul.tag-cloud li a {
+    color: #40a9f4;
+}
+
+.panel.sidebar-menu ul.tag-cloud li a:hover {
+    color: #40a9f4;
+    border-color: #40a9f4;
+}
+
+#blog-listing-medium .post .date-comments a:hover {
+    color: #40a9f4;
+}
