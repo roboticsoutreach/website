@@ -14,6 +14,14 @@ a:hover, a:focus {
     background: #757575;
 }
 
+#top .social a {
+    color: #ccc;
+}
+
+#top .social a:hover {
+    background: #40a9f4;
+}
+
 #footer {
     background: #3d8fee;
     color: #fff;
