@@ -203,7 +203,7 @@ paginate = 10
     icon = "fas fa-robot"
     title = "Get Involved!"
     subtitle = "Everyone is welcome in our robotics community. No matter if you've never seen a robot, or if you have built a functioning 3D printer, come and join in!"
-    link_url = "#"
+    link_url = "https://www.susu.org/groups/student-robotics-southampton"
     link_text = "Let's Go!"
 
 [params.clients]
