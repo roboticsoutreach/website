@@ -58,6 +58,10 @@ a:hover, a:focus {
     color: #02a6f2;
 }
 
+.btn-lg {
+    font-size: 32px;
+}
+
 .home-carousel .dark-mask {
     background: #02a6f2;
 }
